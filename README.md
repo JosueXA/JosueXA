@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/JosXA"><img src="https://api.daily.dev/devcards/2925eee9be534c6ea7ec8a9272b56415.png?r=gro" width="400" alt="Josué Avalos's Dev Card"/></a>
 
 <!--
 **JosueXA/JosueXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
