@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on:
+    Projects on NoCountry & IDforIdeas
+
+- 🌱 I’m currently learning:
+    Next.js, Prisma, PostreSQL & Tailwind
