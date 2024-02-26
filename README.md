@@ -1,3 +1,8 @@
+# Josué Xicotencatl Avalos
+## Full-Stack Developer with 3 years of experience
+
+Hello! I'm a passionate Full-Stack developer with three years of experience in creating innovative web and mobile solutions. My extensive technical knowledge and experience allow me to work across all stages of software development, from design to implementation, ensuring high-quality and high-performance end products.
+
 <a href="https://app.daily.dev/JosXA"><img src="https://api.daily.dev/devcards/2925eee9be534c6ea7ec8a9272b56415.png?r=gro" width="400" alt="Josué Avalos's Dev Card"/></a>
 
 <!--
